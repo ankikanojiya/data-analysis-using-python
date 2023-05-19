@@ -1,4 +1,4 @@
-# data-analysis-using-python
+# data-cleaning-and-analysis-using-python
 
 *Project Description: Data Cleaning and Analysis for Gaining Insights using Python*
 
